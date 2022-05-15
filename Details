@@ -1,0 +1,79 @@
+
+Topics:
+
+JS:
+  Browser JS vs Node Js
+
+  Copy By Value & Copy by Reference
+  
+  Window & Document
+  alert, prompt, confirm, setTimeout, setInterval
+  
+  Array and JSON iteration
+
+  Array ---> for loop, forEach,
+  obj --> { a: 1, b: 2 } --> for ..in
+
+  Hoisting -> Function, variable
+
+
+  function --> Types of function
+
+
+  ES6:
+    let const, 
+    spread & rest operator
+    array & object destructure
+    Template literals
+    Arrow functions
+  
+  MRF
+    Reduce
+
+  Events
+
+  
+
+
+
+HTML:
+  Browser Debugger, Inspect, Responsive View
+
+  div vs section vs article
+  div vs span
+  HTML forms
+  form submit
+
+
+CSS:
+
+  prop & val
+  class & id
+  important
+  display inline block
+  box-model --> content, padding, border, margin
+  flex --->
+  position ---> 
+    static ---> default -- > follows the normal DOC flow, creates it own spaces and occupies it
+    relative ---> goes to with the normal flow and creates its own space, affected by the props top, bottom, left, right
+    absolute ---> Removed from the document flow. Doesn't occupy any space.
+      positioned by top, left, bottom, right with  respect to the nearest positioned ancestor/parent else will positioned by the HTML tag/document
+    fixed --> fixes its position based top left right with respect to html tag
+    sticky --> sticks it position based top left right with respect neared scrolling ancestor
+  parent inherit
+  overflow ---> visible, scroll, hidden, auto
+  measurements, fonts, icons
+
+RWD
+  Media Query
+  Bootsrap
+  Containers, Grid
+  Breakpoints
+
+DOM: ---> Document Object Model 
+  addEventListners
+
+callback
+  promise
+  async await
+  OOPS
